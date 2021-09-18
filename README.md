@@ -24,4 +24,4 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## How to Reach Me
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
