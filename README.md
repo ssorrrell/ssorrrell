@@ -16,52 +16,51 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![](https://img.shields.io/badge/SQL-SQL-yellow)
-VBScript
-Farpoint
-Excel functions
-Silver light
-Color Computer 3
-Oracle
-ASP
-Visual Basic 5/6
-Install shield X
-Unit and c#
-Xamarin
-Jira
-Agile development
-Scrum master
-Lead dev
-MS Teams
-VS Code
-Interdev
-Visual Studio
-AJAX
-Git
-Subversion
+![](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/VBScript-green?style=for-the-badge&logo=vbscript&logoColor=white)
+![](https://img.shields.io/badge/Farpoint-orange?style=for-the-badge&logo=farpoint&logoColor=white)
+![](https://img.shields.io/badge/excel-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![](https://img.shields.io/badge/silverlight-grey?style=for-the-badge&logo=silverlight&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/color_computer_3-blue?style=for-the-badge&logo=tandy&logoColor=white)
+![](https://img.shields.io/badge/oracle-grey?style=for-the-badge&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/asp-purple?style=for-the-badge&logo=asp&logoColor=white)
+![](https://img.shields.io/badge/visual_basic-blue?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/installshield_X-yellow?style=for-the-badge&logo=installshield&logoColor=white)
+![](https://img.shields.io/badge/nunit-green?style=for-the-badge&logo=nunit&logoColor=white)
+![](https://img.shields.io/badge/xamarin-blue?style=for-the-badge&logo=xamarin&logoColor=white)
+![](https://img.shields.io/badge/jira-orange?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/agile-yellow?style=for-the-badge&logo=agile&logoColor=white)
+![](https://img.shields.io/badge/TeamCity-blue?style=for-the-badge&logo=teamcity&logoColor=white)
+![](https://img.shields.io/badge/vs_code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/visual_interdev-red?style=for-the-badge&logo=visual-interdev&logoColor=white)
+![](https://img.shields.io/badge/visual_studio-g?style=for-the-badge&logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/ajax-pink?style=for-the-badge&logo=ajax&logoColor=white)
+![](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/subversion-purple?style=for-the-badge&logo=subversion&logoColor=white)
 
 
 
 
 ## Recent Activity
 
-![](https://github-readme-stats.vercel.app/api?username=ssorrrell&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=ssorrrell&theme=light)
 
 ## How to Reach Me
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-Gmail
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Employment History
 
-Amarillo College
-Utility Engineering
-CSStars/Clearsight/Riskonnect
-CCMSI
+Amarillo College<br/>
+Utility Engineering<br/>
+CSStars/Clearsight/Riskonnect<br/>
+CCMSI<br/>
 
 ## Education
 
-1993-1998 BS Computer Science Texas Tech University Lubbock, TX
+1993-1998 BS Computer Science Texas Tech University Lubbock, TX<br/>
 2000-2003 MS Engineering Texas Tech University Distance Education
 
 
