@@ -16,6 +16,31 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![](https://img.shields.io/badge/SQL-SQL-yellow)
+VBScript
+Farpoint
+Excel functions
+Silver light
+Color Computer 3
+Oracle
+ASP
+Visual Basic 5/6
+Install shield X
+Unit and c#
+Xamarin
+Jira
+Agile development
+Scrum master
+Lead dev
+MS Teams
+VS Code
+Interdev
+Visual Studio
+AJAX
+Git
+Subversion
+
+
 
 
 ## Recent Activity
@@ -24,4 +49,19 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## How to Reach Me
 
-![http://wwww.google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Gmail
+
+## Employment History
+
+Amarillo College
+Utility Engineering
+CSStars/Clearsight/Riskonnect
+CCMSI
+
+## Education
+
+1993-1998 BS Computer Science Texas Tech University Lubbock, TX
+2000-2003 MS Engineering Texas Tech University Distance Education
+
+
