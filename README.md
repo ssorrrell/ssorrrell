@@ -52,14 +52,15 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Employment History
+
 <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75"><br/>
-<img src="https://web.archive.org/web/20030103232725im_/http://ue-corp.com/images/ueswirl_2001.gif" width="75"><br/>
-<img src="https://web.archive.org/web/20051231012614im_/http://www.csstars.com/images/csstarslogonew3.gif" width="75">
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="75"><br/>
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="75">
 /
-<img src="https://web.archive.org/web/20170831141036im_/http://www.marshclearsight.com/content/uploads/Marsh-ClearSight.png" width="75">
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="75">
 /
-<img src="https://web.archive.org/web/20190410120726im_/http://www.riskonnectclearsight.com/content/uploads/RiskonnectLogo.jpg" width="75"><br/>
-<img src="https://www.ccmsi.com/wp-content/uploads/2017/07/CCMSI-logo-bar-box1.png" width="75"><br/>
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="75"><br/>
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="75"><br/>
 
 
 ## Education
