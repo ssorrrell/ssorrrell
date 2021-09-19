@@ -52,8 +52,7 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Employment History
-
-Amarillo College<br/>
+<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75"><br/>
 <img src="https://web.archive.org/web/20030103232725im_/http://ue-corp.com/images/ueswirl_2001.gif" width="75"><br/>
 <img src="https://web.archive.org/web/20051231012614im_/http://www.csstars.com/images/csstarslogonew3.gif" width="75">
 /
