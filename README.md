@@ -48,18 +48,24 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## How to Reach Me
 
-![https://www.google.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Employment History
 
-Amarillo College<br/>
-Utility Engineering<br/>
-CSStars/Clearsight/Riskonnect<br/>
-CCMSI<br/>
+<img src="https://www.actx.edu/themes/college_green_BS4/assets/images/AC-Logo-White-for-Web2-01.svg" width="75"><br/>
+<img src="https://web.archive.org/web/20030103232725im_/http://ue-corp.com/images/ueswirl_2001.gif" width="75"><br/>
+<img src="https://web.archive.org/web/20051231012614im_/http://www.csstars.com/images/csstarslogonew3.gif" width="75">
+/
+<img src="https://web.archive.org/web/20170831141036im_/http://www.marshclearsight.com/content/uploads/Marsh-ClearSight.png" width="75">
+/
+<img src="https://web.archive.org/web/20190410120726im_/http://www.riskonnectclearsight.com/content/uploads/RiskonnectLogo.jpg" width="75"><br/>
+<img src="https://www.ccmsi.com/wp-content/uploads/2017/07/CCMSI-logo-bar-box1.png" width="75"><br/>
+
 
 ## Education
 
+<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50"><br />
 1993-1998 BS Computer Science Texas Tech University Lubbock, TX<br/>
 2000-2003 MS Engineering Texas Tech University Distance Education
 
