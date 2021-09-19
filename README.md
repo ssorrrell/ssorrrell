@@ -53,7 +53,7 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## Employment History
 
-<img src="https://www.actx.edu/communications-and-marketing/images/filecabinet/folder24/AC_Visual_01.jpg" width="75"><br/>
+Amarillo College<br/>
 <img src="https://web.archive.org/web/20030103232725im_/http://ue-corp.com/images/ueswirl_2001.gif" width="75"><br/>
 <img src="https://web.archive.org/web/20051231012614im_/http://www.csstars.com/images/csstarslogonew3.gif" width="75">
 /
