@@ -48,7 +48,7 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## How to Reach Me
 
-<https://www.linkedin.com/in/ssorrrell>
+<https://www.linkedin.com/in/stephen-sorrell>
 <ssorrrell@gmail.com>
 
 ## Employment History
