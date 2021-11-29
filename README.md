@@ -52,15 +52,15 @@ My interest is in programming to produce a useable product.  To that end I have 
 
 ## Employment History
 
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="75">|
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="75">|
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="75">|
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="75">|
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="75">|
-|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75">|
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="75"> |
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="75"> |
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="75"> |
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="75"> |
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="75"> |
+| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75"> |
 
 ## Education
 
-|<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50">|2000-2003|MS Engineering Texas Tech University Distance Education|
-|<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50">|1993-1998|BS Computer Science Texas Tech University Lubbock, TX|
+| <img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50"> | 2000-2003 | MS Engineering Texas Tech University | Distance Education |
+| <img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50"> | 1993-1998 | BS Computer Science Texas Tech University | Lubbock, TX |
 
