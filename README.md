@@ -49,7 +49,7 @@ My interest is in programming to produce a useable product.  To that end I have 
 
 [![name](https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/LI-Logo.png)](https://www.linkedin.com/in/stephen-sorrell)
 
-[![name](https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/LI-Logo.png)](mailto:ssorrrell@gmail.com)
+[![name](https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Gmail_2020.png)](mailto:ssorrrell@gmail.com)
 
 ## Employment History
 
