@@ -2,7 +2,9 @@
 
 ## About
 
-Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up thru .Net Framework 1.1 and c#, ASP.NET, Silverlight with MVC, AngularJS with MVC, Angular with MVC, and Angular with Microservices.  My first 6 years were spent developing an internal engineering document management application.  Then I joined CSStars to work on a large Risk Management Information System Enterprise product.  I currently work for CCMSI developing an internal Claims application.
+Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up thru .Net Framework 1.1 and c#, ASP.NET, Silverlight with MVC, AngularJS with MVC, Angular with MVC, and Angular with Microservices.  My first 6 years were spent developing an internal engineering document management application.  Then I joined CSStars to work on a large Risk Management Information System SaaS product.  I currently work for CCMSI developing an internal Claims application.
+
+My interest is in programming to produce a useable product.  To that end I have accumulated many skills; Agile Methodologies, performance analysis, SCRUM, team leadership/management, deconstructing requirements into workable pieces, project management, complex excel formulas, and more.  My focus is on good programming practice.  Generally, using KISS, DRY, maybe SOLID, and principles of computer science are better than using technological solutions to address issues.
 
 ## Language and Tools
 
@@ -39,9 +41,6 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 ![](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/subversion-purple?style=for-the-badge&logo=subversion&logoColor=white)
 
-
-
-
 ## Recent Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=ssorrrell&theme=light)
@@ -53,20 +52,15 @@ Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up th
 
 ## Employment History
 
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75"><br/>
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="75"><br/>
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="75">
-/
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="75">
-/
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="75"><br/>
-<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="75"><br/>
-
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="75">|
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="75">|
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="75">|
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="75">|
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="75">|
+|<img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="75">|
 
 ## Education
 
-<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50"><br />
-1993-1998 BS Computer Science Texas Tech University Lubbock, TX<br/>
-2000-2003 MS Engineering Texas Tech University Distance Education
-
+|<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50">|2000-2003|MS Engineering Texas Tech University Distance Education|
+|<img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" width="50">|1993-1998|BS Computer Science Texas Tech University Lubbock, TX|
 
