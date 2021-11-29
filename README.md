@@ -47,7 +47,12 @@ My interest is in programming to produce a useable product.  To that end I have 
 
 ## How to Reach Me
 
+[https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png]:
 <https://www.linkedin.com/in/stephen-sorrell>
+'Linked In'
+
+![](https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png)
+
 <ssorrrell@gmail.com>
 
 ## Employment History
