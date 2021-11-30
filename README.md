@@ -4,7 +4,7 @@
 
 Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up thru .Net Framework 1.1 and c#, ASP.NET, Silverlight with MVC, AngularJS with MVC, Angular with MVC, and Angular with Microservices.  My first 6 years were spent developing an internal engineering document management application.  Then I joined CSStars to work on a large Risk Management Information System SaaS product.  I currently work for CCMSI developing an internal Claims application.
 
-My interest is in programming to produce a useable product.  To that end I have accumulated many skills; Agile Methodologies, performance analysis, SCRUM, team leadership/management, deconstructing requirements into workable pieces, project management, complex excel formulas, and more.  My focus is on good programming practice.  Generally, using KISS, DRY, maybe SOLID, and principles of computer science are better than using technological solutions to address issues.
+My interest is in programming to produce a useable product.  To that end I have accumulated many skills; Agile Methodologies, performance analysis, SCRUM, team leadership/management, deconstructing requirements into workable pieces, project management, complex excel formulas, and more.  My focus is on good programming practice.
 
 ## Language and Tools
 
