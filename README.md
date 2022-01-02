@@ -53,14 +53,12 @@ My interest is in programming to produce a useable product.  To that end I have 
 
 ## Employment History
 
-| Logos |
-|---|
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="100"> |
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="100"> |
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="100"> |
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="100"> |
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="100"> |
-| <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/CCMSI-logo-bar-box1.png" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/RiskonnectLogo.jpg" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Marsh-ClearSight.png" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/csstarslogonew3.gif" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/ueswirl_2001.gif" width="100"> |
+- <img src="https://raw.githubusercontent.com/ssorrrell/ssorrrell/main/Amarillo%20College%20Logo.png" width="100"> |
 
 ## Education
 
