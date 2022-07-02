@@ -2,7 +2,7 @@
 
 ## About
 
-Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up thru .Net Framework 1.1 and c#, ASP.NET, Silverlight with MVC, AngularJS with MVC, Angular with MVC, and Angular with Microservices.  My first 6 years were spent developing an internal engineering document management application.  Then I joined CSStars working on a enterprise class risk management information system (RMIS) SaaS product.  I currently work for CCMSI developing an internal claims management application UI in the latest version of Angular using Kendo controls and microservice backend.
+Sr Web Developer starting with Classic ASP and VB6 in 1999 and progressing up thru .Net Framework 1.1 and c#, ASP.NET, Silverlight with MVC, AngularJS with MVC, Angular with MVC, and Angular with Microservices.  My first 6 years were spent developing an internal engineering document management application.  Then I joined CSStars working on a enterprise class risk management information system (RMIS) SaaS product.  My next challenge was Team Lead and SCRUM master for the UI of CCMSI's internal claims management application using the latest Angular, Kendo controls, and a microservices backend.  I currently work for Origami Risk helping underwriting clients to create Rating Programs in the Origami product.
 
 My interest is in programming to produce a useful product.  To that end I have accumulated many skills; Agile Methodologies, performance analysis, SCRUM, team leadership/management, deconstructing requirements into workable pieces, project management, complex excel formulas, and more.  My focus is on good programming practice leading to maintainable, long-lived, flexible solutions.
 
